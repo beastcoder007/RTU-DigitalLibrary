@@ -2,6 +2,7 @@
 
 ***
 
-### **Please read the [`contributing guidelines`](./contributing.md) before submitting new resources**
+### **Please read the [`contributing guidelines`](./contributing.md) before submitting new resources for this project**
 
 * hijabiwhocodeswashere [@hijabiwhocodes]
+*
